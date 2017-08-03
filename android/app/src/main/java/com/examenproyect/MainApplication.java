@@ -1,4 +1,4 @@
-package com.ExamenProyecto;
+package com.examenproyect;
 
 import android.app.Application;
 
